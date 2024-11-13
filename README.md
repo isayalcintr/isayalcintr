@@ -22,8 +22,8 @@ Node.js ve React konularında derinleşerek, daha etkileşimli projelere imza at
 Yazılım dünyasındaki deneyimlerimi ve güncel gelişmeleri [blog](https://medium.com/@isayalcintr) sayfamda paylaşıyorum. Yeni teknolojiler, geliştirme yöntemleri ve projelerim hakkında detayları burada bulabilirsiniz.
 
 ## 📫 İletişim
-📧 [isa.yalcin@ornekmail.com](mailto:isayalcnitr@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/isayalcin/)  
+📧 [Mail](mailto:isayalcnitr@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/isayalcin/)
 
 Bu profil; projeler, kütüphaneler ve geliştirme araçları hakkında bilgiler içermektedir. Yüksek standartlarla çalışmaya, sürekli öğrenmeye ve gelişmeye devam ediyorum.
 
