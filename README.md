@@ -1,30 +1,30 @@
-# Selamlar! 👋 İsa burada.
+# Hello! 👋 Isa here.
 
-Yazılım geliştirme alanında dört yıldan fazla profesyonel deneyimle, özellikle CRM projelerinde derinleşmiş bulunuyorum. Çeşitli projelerde yer alarak ve freelance olarak çalışarak, edindiğim bilgileri projelerimi muhasebe yazılımları gibi farklı sistemlerle sorunsuzca entegre etmek için kullanıyorum.
+With over four years of professional experience in software development, I have specialized in CRM projects. Through working on various projects and freelancing, I use the knowledge I’ve gained to seamlessly integrate my projects with different systems such as accounting software.
 
-## 🔧 Teknik Beceriler ve Araçlar
-- *Backend*: PHP (Laravel, Lumen, Symfony, Phlacon, CodeIgniter), Node.js
-- *Veritabanı*: PostgreSQL, MySQL, MSSQL
+## 🔧 Technical Skills and Tools
+- *Backend*: PHP (Laravel, Lumen, Symfony, Phalcon, CodeIgniter), Node.js
+- *Database*: PostgreSQL, MySQL, MSSQL
 - *Frontend*: React, Inertia.js, jQuery, Tailwind CSS, BS5, BS4, Blade
-- *Gerçek Zamanlı İletişim*: WebSockets (Socket.IO)
-- *Diğer*: Linux Sunucu Yönetimi, C# WindowsForms
+- *Real-Time Communication*: WebSockets (Socket.IO)
+- *Others*: Linux Server Management, C# WindowsForms
 
-## 🚀 Uzmanlıklar
-- *CRM Çözümleri*: CRM projeleri geliştirme ve özel muhasebe yazılımlarıyla (Logo, Mikro, Netsis, Bayt) entegrasyon sağlama
-- *E-Ticaret Çözümleri*: Ölçeklenebilir, kullanıcı dostu B2B/B2C/B4B çözümleri geliştirme
-- *API Geliştirme*: RESTful API geliştirme ve kullanıcı yetkilendirme
-- *Gerçek Zamanlı İletişim*: React ve Laravel ile WebSocket tabanlı çözümler geliştirme
+## 🚀 Expertise
+- *CRM Solutions*: Developing CRM projects and integrating them with custom accounting software (Logo, Mikro, Netsis, Bayt)
+- *E-commerce Solutions*: Developing scalable, user-friendly B2B/B2C/B4B solutions
+- *API Development*: RESTful API development and user authentication
+- *Real-Time Communication*: Developing WebSocket-based solutions with React and Laravel
 
-## 🌐 Gelecek Planları
-Node.js ve React konularında derinleşerek, daha etkileşimli projelere imza atmak istiyorum. Gerçek zamanlı iletişim ve soket tabanlı uygulamalar üzerinde çalışmaya devam ediyorum. Uzun vadede, kendi CRM ürünümü geliştirme hedefim de var.
+## 🌐 Future Plans
+I aim to deepen my expertise in Node.js and React to work on more interactive projects. I continue to work on real-time communication and socket-based applications. Long-term, I also have the goal of developing my own CRM product.
 
-## ✍ Blog Yazılarım
-Yazılım dünyasındaki deneyimlerimi ve güncel gelişmeleri [blog](https://medium.com/@isayalcintr) sayfamda paylaşıyorum. Yeni teknolojiler, geliştirme yöntemleri ve projelerim hakkında detayları burada bulabilirsiniz.
+## ✍ My Blog
+I share my experiences and insights about the software world and current developments on my [blog](https://medium.com/@isayalcintr). You can find details about new technologies, development methods, and my projects here.
 
-## 📫 İletişim
-📧 [Mail](mailto:isayalcnitr@gmail.com)  
+## 📫 Contact
+📧 [Email](mailto:isayalcnitr@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/isayalcin/)
 
-Bu profil; projeler, kütüphaneler ve geliştirme araçları hakkında bilgiler içermektedir. Yüksek standartlarla çalışmaya, sürekli öğrenmeye ve gelişmeye devam ediyorum.
+This profile includes information about projects, libraries, and development tools. I continue to work with high standards, constantly learning and growing.
 
-Teşekkürler! 😊
+Thank you! 😊
